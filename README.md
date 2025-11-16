@@ -37,15 +37,14 @@ And of course, like many kids of my generation, I grew up watching **Detective C
 <table>
   <tr>
     <td>
-      <h3>🕵️ A curious mind, inspired by mysteries</h3>
       <p>
         <b>Detective Conan</b> taught me curiosity, logical thinking, and the joy of solving puzzles — values I try to bring into my learning journey today.
       </p>
       <p>
-✨ 小さなことからコツコツと<br>
-“Even small steps, taken steadily, become progress.”<br>
-(Conan’s philosophy for beginners who don’t give up.)
-</p>
+        ✨ 小さなことからコツコツと<br>
+        “Even small steps, taken steadily, become progress.”<br>
+        (Conan’s philosophy for beginners who don’t give up.)
+     </p>
     </td>
     <td>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif" width="440px" />
@@ -68,8 +67,7 @@ Here is a project I’m proud to contribute to:
 - Basics of research & AI experimentation  
 - Improving my understanding of deep learning and LLMs  
 - Building simple AI projects from scratch  
-- Exploring how photography and AI can intersect  
-- Learning through open-source contributions, even small ones
+- Implementing a research paper
 - Building my photography portfolio slowly and mindfully 
 
 ---
