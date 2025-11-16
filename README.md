@@ -29,7 +29,7 @@ I’m especially curious about NLP, deep learning, interpretability, and how AI 
 I'm still at the beginning of my journey, but I genuinely enjoy exploring new concepts, running small experiments, and understanding how things work under the hood.
 
 Outside of tech, I'm also a **photography enthusiast**.  
-I love finding beauty in the little things, and therefor everywhere! Photography teaches me patience, observation, creativity, but most important gratitude and satisfaction, which strangely also help me in AI.
+I love finding beauty in the little things, and from there, in everything! Photography teaches me patience, observation, creativity, but most important gratitude and satisfaction, which strangely also help me in AI.
 
 And of course, like many kids of my generation, I grew up watching **Detective Conan**.  
 
