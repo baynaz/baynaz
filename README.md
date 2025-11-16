@@ -43,6 +43,13 @@ It taught me curiosity, logical thinking, and the joy of solving puzzles — val
 (Conan’s philosophy for beginners who don’t give up.)
 
 ---
+## 🤝 Latest Work
+
+Here is a project I’m proud to contribute to:  
+
+[**Law_Clearing_Agent-AWS_AI_Agent_Hackathon**]([https://github.com/USERNAME/REPO](https://github.com/k-Refuge/Law_Clearing_Agent-AWS_AI_Agent_Hackathon)  
+
+---
 
 ## 🛠️ What I'm Currently Learning
 
