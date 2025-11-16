@@ -44,8 +44,8 @@ It taught me curiosity, logical thinking, and the joy of solving puzzles — val
         always questioning, observing, and searching for the truth.  
         This curiosity drives my work in AI research today.
       </p>
-      <p>        ✨ 小さなことからコツコツと  
-        **“Even small steps, taken steadily, become progress.”**  
+      <p>  ✨ 小さなことからコツコツと  \n
+        “Even small steps, taken steadily, become progress.” \n
         (Conan’s philosophy for beginners who don’t give up.)</p>
     </td>
     <td>
