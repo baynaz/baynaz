@@ -5,6 +5,17 @@
 <h1 align="center">Hey, it's baynaz! 👋</h1>
 <h3 align="center">Aspiring AI Engineer and photographer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=EE82EE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!I+am+an+Aspiring+AI+Engineer;Researcher;Photographer;AI+for+healthcare;">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A4%96-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Aspring+Researcher-%F0%9F%94%8D-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-%E2%9A%A1-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Photographer-%F0%9F%93%B7-green?style=for-the-badge" />
+</p>
+
 ---
 <!-- Badges -->
 <p align="center">
@@ -69,32 +80,15 @@ And yes — I grew up watching **Detective Conan**, which inspired my curiosity 
 - Favorite Detective Conan arcs / episodes (call me a nostalgic detective)  
 - Building AI projects end-to-end  
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Lili!&color=gradient&fontSize=40" />
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=EE82EE&center=true&vCenter=true&width=600&lines=AI+Engineer;Researcher;Photographer;Detective+Conan+Fan;Welcome+to+my+GitHub!">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A4%96-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Researcher-%F0%9F%94%8D-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Photography-%F0%9F%93%B7-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Enthusiast-%E2%9A%A1-yellow?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
-</p>
 
 ---
 
 ## 📫 Let’s Connect
 
-- **LinkedIn**: [Your LinkedIn URL]  
-- **Portfolio (Photography)**: [Your portfolio link]  
-- **Email**: yourname@example.com  
+- **LinkedIn**: www.linkedin.com/in/zaynab-merimi-347093218
+- **Portfolio (Photography)**: Coming soon! Stay tuned!
+- **Email**: zaynabmerimi15@gmail.com  
 
 ---
 
