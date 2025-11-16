@@ -52,7 +52,8 @@ It taught me curiosity, logical thinking, and the joy of solving puzzles — val
 - Improving my understanding of deep learning and LLMs  
 - Building simple AI projects from scratch  
 - Exploring how photography and AI can intersect  
-- Learning through open-source contributions, even small ones  
+- Learning through open-source contributions, even small ones
+- Building my photography portfolio slowly and mindfully 
 
 ---
 
@@ -64,30 +65,6 @@ It taught me curiosity, logical thinking, and the joy of solving puzzles — val
 | **Research Tools** | NumPy, Pandas, Matplotlib, W&B |
 | **Web / Software** | React, Next.js, Node.js, Laravel |
 | **Dev Tools** | Git, GitHub Actions, VS Code, Linux |
-
----
-
-## 🚀 Currently Working On
-
-- Learning about **interpretable AI**  
-- A small **AI + photography** side project  
-- Understanding reinforcement learning basics  
-- Building my portfolio slowly and mindfully  
-
----
-
-## 💬 Ask Me About
-
-- My journey in AI as a beginner  
-- Photography tips (light, composition, portraits)  
-- Detective Conan theories and arcs (childhood nostalgia 😄)  
-- Learning resources for tech & creativity  
-
----
-
-### ✨ 真実はいつもひとつ！  
-**“There is always only one truth.” – Conan Edogawa**  
-(A reminder to stay curious and keep learning.)
 
 ---
 
