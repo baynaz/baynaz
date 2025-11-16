@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I'm an **AI Engineer** deeply passionate about research, particularly in areas like NLP, deep learning, and AI interpretability.  
+My name is Zaynab and I'm an **AI Engineer** deeply passionate about research, particularly in areas like NLP, deep learning, AI interpretability and AI for healthcare.  
 I love bridging the gap between theory and real-world applications: whether building research-driven models, prototyping experiments, or contributing to open source.
 
 But that's not all — I'm also a **photographer**. Behind the algorithms, I see the world through a lens, capturing moments of light, emotion, and story.  
