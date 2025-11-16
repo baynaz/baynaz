@@ -68,14 +68,25 @@ And yes — I grew up watching **Detective Conan**, which inspired my curiosity 
 - Photography tips: lighting, framing, editing  
 - Favorite Detective Conan arcs / episodes (call me a nostalgic detective)  
 - Building AI projects end-to-end  
-
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Lili!&color=gradient&fontSize=40" />
+</p>
 
-## ✨ Fun Facts
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=EE82EE&center=true&vCenter=true&width=600&lines=AI+Engineer;Researcher;Photographer;Detective+Conan+Fan;Welcome+to+my+GitHub!">
+</p>
 
-- 🎞️ I’ve taken photos in **X countries** / “I love traveling through my lens”  
-- 🔍 I once tried to replicate a famous *Detective Conan* logic puzzle in Python  
-- ☕ I’m most creative with coffee (or tea) by my side  
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A4%96-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Researcher-%F0%9F%94%8D-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Photography-%F0%9F%93%B7-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-%E2%9A%A1-yellow?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" />
+</p>
 
 ---
 
