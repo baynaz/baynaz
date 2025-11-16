@@ -43,6 +43,35 @@ It taught me curiosity, logical thinking, and the joy of solving puzzles — val
 (Conan’s philosophy for beginners who don’t give up.)
 
 ---
+<table>
+  <tr>
+    <td>
+      <h3>🕵️ A curious mind, inspired by mysteries</h3>
+      <p>
+        I grew up watching <b>Detective Conan</b>, and it shaped the way I think —  
+        always questioning, observing, and searching for the truth.  
+        This curiosity drives my work in AI research today.
+      </p>
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif" width="280px" />
+    </td>
+  </tr>
+</table>
+---
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h3>🕵️ A curious mind, inspired by mysteries</h3>
+    <p>
+      I grew up watching <b>Detective Conan</b>, and it shaped the way I think —  
+      always questioning, observing, and searching for the truth.  
+      This curiosity drives my passion for AI research today.
+    </p>
+  </div>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif" width="280px" />
+</div>
+
+---
 ## 🤝 Latest Work
 
 Here is a project I’m proud to contribute to:  
