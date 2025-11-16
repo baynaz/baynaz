@@ -2,12 +2,8 @@
 <!-- ===== HEADER / HERO ===== -->
 <!-- ========================= -->
 
-<h1 align="center">Salam, I’m Zaynab 👋</h1>
-<h3 align="center">AI Engineer | Researcher | Photographer | Detective Conan Enthusiast</h3>
-
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif" width="180px" alt="Detective Conan GIF" />
-</p>
+<h1 align="center">Hey, it's baynaz! 👋</h1>
+<h3 align="center">Aspiring AI Engineer and photographer</h3>
 
 ---
 
@@ -23,7 +19,9 @@ I love bridging the gap between theory and real-world applications: whether buil
 But that's not all — I'm also a **photographer**. Behind the algorithms, I see the world through a lens, capturing moments of light, emotion, and story.  
 
 And yes — I grew up watching **Detective Conan**, which inspired my curiosity for puzzles, logic, and investigation. Solving problems (both in code and in life) is in my DNA.
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif" width="180px" alt="Detective Conan GIF" />
+</p>
 ---
 
 ## 🛠️ What I Do
