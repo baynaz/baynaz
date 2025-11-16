@@ -32,21 +32,18 @@ Outside of tech, I'm also a **photography enthusiast**.
 I love finding beauty in the little things, and therefor everywhere! Photography teaches me patience, observation, creativity, but most important gratitude and satisfaction, which strangely also help me in AI.
 
 And of course, like many kids of my generation, I grew up watching **Detective Conan**.  
-It taught me curiosity, logical thinking, and the joy of solving puzzles — values I try to bring into my learning journey today.
 
----
+
 <table>
   <tr>
     <td>
       <h3>🕵️ A curious mind, inspired by mysteries</h3>
       <p>
-        I grew up watching <b>Detective Conan</b>, and it shaped the way I think —  
-        always questioning, observing, and searching for the truth.  
-        This curiosity drives my work in AI research today.
+        <b>Detective Conan</b> taught me curiosity, logical thinking, and the joy of solving puzzles — values I try to bring into my learning journey today.
       </p>
-      <p>  ✨ 小さなことからコツコツと  \n
-        “Even small steps, taken steadily, become progress.” \n
-        (Conan’s philosophy for beginners who don’t give up.)</p>
+      <p>  ✨ 小さなことからコツコツと  <\p>
+       <p> “Even small steps, taken steadily, become progress.” <p>\
+        <p>(Conan’s philosophy for beginners who don’t give up.)</p>
     </td>
     <td>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif" width="440px" />
