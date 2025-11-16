@@ -43,10 +43,10 @@ It taught me curiosity, logical thinking, and the joy of solving puzzles — val
         I grew up watching <b>Detective Conan</b>, and it shaped the way I think —  
         always questioning, observing, and searching for the truth.  
         This curiosity drives my work in AI research today.
-        ✨ 小さなことからコツコツと  
-        **“Even small steps, taken steadily, become progress.”**  
-        (Conan’s philosophy for beginners who don’t give up.)
       </p>
+      <p>        ✨ 小さなことからコツコツと  
+        **“Even small steps, taken steadily, become progress.”**  
+        (Conan’s philosophy for beginners who don’t give up.)</p>
     </td>
     <td>
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif" width="440px" />
