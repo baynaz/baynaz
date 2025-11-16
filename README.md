@@ -6,7 +6,7 @@
 <h3 align="center">Aspiring AI Engineer and photographer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=EE82EE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!I+am+an+Aspiring+AI+Engineer;Researcher;Photographer;AI+for+healthcare;">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=EE82EE&center=true&vCenter=true&width=600&lines="Welcome+to+my+GitHub!;I+am+an+Aspiring+AI+Engineer;Researcher;Photographer;AI+for+healthcare;">
 </p>
 
 <p align="center">
