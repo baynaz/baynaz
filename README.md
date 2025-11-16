@@ -53,31 +53,6 @@ And yes — I grew up watching **Detective Conan**, which inspired my curiosity 
 | **Web / Software** | React, Next.js, Node.js, Laravel, MySQL |
 | **Dev Tools** | GitHub Actions, Docker, VS Code, Linux |
 
----
-
-## 📊 GitHub Stats & Highlights
-
-<p align="center">
-  <!-- GitHub Readme Stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=baynaz&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baynaz&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-Here are some key projects I’m proud of:
-
-- **[Project A]** – Short description of what it does.  
-- **[Project B]** – Why it's interesting / what problem it solves.  
-- **[Project C]** – Something research-oriented (or creative) — your choice.  
-
-*(Use the “Pinned Repositories” feature on GitHub to highlight these.)*
-
----
 
 ## 🚀 Currently Working On
 
@@ -114,7 +89,7 @@ Here are some key projects I’m proud of:
 
 <p align="center">Thanks for stopping by! Feel free to check out my projects or drop me a message. 😊</p>
 
-
+<!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baynaz&theme=radical" />
 </p>
@@ -124,3 +99,4 @@ Here are some key projects I’m proud of:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baynaz&theme=radical" />
 </p>
 
+-->
