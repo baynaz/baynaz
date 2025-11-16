@@ -15,14 +15,6 @@
   <img src="https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-black?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baynaz&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baynaz&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baynaz&theme=radical" />
-</p>
 
 
 
@@ -121,3 +113,14 @@ Here are some key projects I’m proud of:
 ---
 
 <p align="center">Thanks for stopping by! Feel free to check out my projects or drop me a message. 😊</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baynaz&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baynaz&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baynaz&theme=radical" />
+</p>
+
