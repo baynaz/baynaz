@@ -93,24 +93,17 @@ It taught me curiosity, logical thinking, and the joy of solving puzzles — val
 
 ## 📫 Let’s Connect
 
-- **LinkedIn**:  
-- **Photography Portfolio**: Coming soon!  
-- **Email**:  
+- **LinkedIn**: www.linkedin.com/in/zaynab-merimi-347093218
+- **Portfolio (Photography)**: Coming soon! Stay tuned!
+- **Email**: zaynabmerimi15@gmail.com   
 
 ---
 
 <p align="center">Thanks for stopping by! I'm learning one step at a time — feel free to reach out or explore my projects. 😊</p>
 
 
-## 📫 Let’s Connect
 
-- **LinkedIn**: www.linkedin.com/in/zaynab-merimi-347093218
-- **Portfolio (Photography)**: Coming soon! Stay tuned!
-- **Email**: zaynabmerimi15@gmail.com  
 
----
-
-<p align="center">Thanks for stopping by! Feel free to check out my projects or drop me a message. 😊</p>
 
 <!--
 <p align="center">
