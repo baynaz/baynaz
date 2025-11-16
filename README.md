@@ -2,7 +2,7 @@
 <!-- ===== HEADER / HERO ===== -->
 <!-- ========================= -->
 
-<h1 align="center">Hi, I’m **Lili** 👋</h1>
+<h1 align="center">Salam, I’m Zaynab 👋</h1>
 <h3 align="center">AI Engineer | Researcher | Photographer | Detective Conan Enthusiast</h3>
 
 <p align="center">
