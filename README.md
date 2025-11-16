@@ -59,10 +59,10 @@ And yes — I grew up watching **Detective Conan**, which inspired my curiosity 
 
 <p align="center">
   <!-- GitHub Readme Stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baynaz&show_icons=true&theme=radical" alt="GitHub Stats" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baynaz&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
