@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Demo GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif)
+
+
 <!--
 **baynaz/baynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
