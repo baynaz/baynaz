@@ -1,65 +1,106 @@
-<!-- Banner / Header -->
-<h1 align="center">Hi, I'm Zaynab 👋</h1>
-<h3 align="center">AI Engineer • Research Enthusiast • Photographer</h3>
+<!-- ========================= -->
+<!-- ===== HEADER / HERO ===== -->
+<!-- ========================= -->
+
+<h1 align="center">Hi, I’m **Lili** 👋</h1>
+<h3 align="center">AI Engineer | Researcher | Photographer | Detective Conan Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif" width="200" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif" width="180px" alt="Detective Conan GIF" />
 </p>
 
 ---
 
-## 🌟 About Me
+<!-- ========================= -->
+<!-- ===== ABOUT ME & CTA ==== -->
+<!-- ========================= -->
 
-✨ I'm an **AI Engineer** passionate about pushing boundaries with intelligence, data, and automation.  
-🔬 I’m especially interested in **research**, from NLP and deep learning to responsible AI.  
-📸 Outside the tech world, I’m a **photographer** — I love capturing stories through light, emotions, and unique perspectives.  
-🎶 I grew up watching **Detective Conan**, my all-time favorite anime, and it shaped my curiosity and love for solving problems.  
+## 👩‍💻 About Me
 
----
+I'm an **AI Engineer** deeply passionate about research, particularly in areas like NLP, deep learning, and AI interpretability.  
+I love bridging the gap between theory and real-world applications: whether building research-driven models, prototyping experiments, or contributing to open source.
 
-## 🧠 What I Love Working On
-- 🤖 **Machine Learning & Deep Learning**
-- 💡 **AI Research & Model Behavior**
-- 🧩 **NLP & Intelligent Systems**
-- 🛠️ **Building full-stack projects (when needed!)**
-- 🎨 **Photography, design & creative tech**
+But that's not all — I'm also a **photographer**. Behind the algorithms, I see the world through a lens, capturing moments of light, emotion, and story.  
+
+And yes — I grew up watching **Detective Conan**, which inspired my curiosity for puzzles, logic, and investigation. Solving problems (both in code and in life) is in my DNA.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ What I Do
 
-**AI & Data**  
-Python • PyTorch • TensorFlow • Scikit-Learn • HuggingFace • LangChain • Jupyter  
-
-**Web & Software**  
-React • Next.js • Node.js • Java • Laravel • MySQL  
-
-**Tools**  
-Git • GitHub • Figma • VSCode • Eclipse • Linux
+- **Research & AI**: Experimenting with new architectures, fine-tuning LLMs, exploring model interpretability  
+- **Projects**: Building full-stack AI projects, from PoC prototypes to production-ready tools  
+- **Photography**: Shooting portraits, street scenes, landscapes; and weaving narrative through images  
+- **Open Source**: Sharing my learnings, contributing to libraries & research repos  
 
 ---
 
-## 📸 Little Pieces of Me
-- I freeze moments through my **photography** 🌄  
-- I explore cultures, architecture, and stories through travel 🕌  
-- I enjoy blending creativity with engineering 🌗  
-- I believe simple things often hide the most beauty ✨  
+## 💡 My Tech Stack
+
+| Domain | Tools / Frameworks |
+|---|---|
+| **AI / Data** | Python, PyTorch, TensorFlow, HuggingFace, Scikit-learn, Jupyter |
+| **Research** | NumPy, Pandas, Matplotlib, Weights & Biases, arXiv, Git |
+| **Web / Software** | React, Next.js, Node.js, Laravel, MySQL |
+| **Dev Tools** | GitHub Actions, Docker, VS Code, Linux |
 
 ---
 
-## 🔍 Current Interests
-- 👁️ AI Safety & Interpretability  
-- 📚 Applied ML research  
-- 🧪 Experimentation & prototyping  
-- 🧵 Building meaningful digital experiences  
+## 📊 GitHub Stats & Highlights
+
+<p align="center">
+  <!-- GitHub Readme Stats card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 🌐 Connect With Me  
-📸 **Photography Portfolio**: *coming soon…*  
-💼 **LinkedIn**: *add your link*  
-📧 **Email**: *your email here*
+## 📂 Featured Projects
+
+Here are some key projects I’m proud of:
+
+- **[Project A]** – Short description of what it does.  
+- **[Project B]** – Why it's interesting / what problem it solves.  
+- **[Project C]** – Something research-oriented (or creative) — your choice.  
+
+*(Use the “Pinned Repositories” feature on GitHub to highlight these.)*
 
 ---
 
-<p align="center">⭐️ Thanks for visiting! Feel free to explore my projects or reach out! ⭐️</p>
+## 🚀 Currently Working On
+
+- A research paper / blog post about *interpretable AI*  
+- An AI-powered photography web app (combining my two passions)  
+- Exploring reinforcement learning for creative generation  
+
+---
+
+## 💬 Ask Me About
+
+- AI ethics, model interpretability & research  
+- Photography tips: lighting, framing, editing  
+- Favorite Detective Conan arcs / episodes (call me a nostalgic detective)  
+- Building AI projects end-to-end  
+
+---
+
+## ✨ Fun Facts
+
+- 🎞️ I’ve taken photos in **X countries** / “I love traveling through my lens”  
+- 🔍 I once tried to replicate a famous *Detective Conan* logic puzzle in Python  
+- ☕ I’m most creative with coffee (or tea) by my side  
+
+---
+
+## 📫 Let’s Connect
+
+- **LinkedIn**: [Your LinkedIn URL]  
+- **Portfolio (Photography)**: [Your portfolio link]  
+- **Email**: yourname@example.com  
+
+---
+
+<p align="center">Thanks for stopping by! Feel free to check out my projects or drop me a message. 😊</p>
