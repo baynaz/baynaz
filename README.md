@@ -38,12 +38,9 @@ And of course, like many kids of my generation, I grew up watching **Detective C
   <tr>
     <td>
       <p>
-        <b>Detective Conan</b> taught me curiosity, logical thinking, and the joy of solving puzzles — values I try to bring into my learning journey today.
-      </p>
-      <p>
         ✨ 小さなことからコツコツと<br>
         “Even small steps, taken steadily, become progress.”<br>
-        (Conan’s philosophy for beginners who don’t give up.)
+        Conan’s philosophy for beginners who don’t give up.
      </p>
     </td>
     <td>
