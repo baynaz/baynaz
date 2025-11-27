@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aspiring%20AI%20Engineer-%F0%9F%A4%96-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learner%20%26%20Research%20Enthusiast-%F0%9F%94%8D-blue?style=for-the-badge" />
+ <!-- <img src="https://img.shields.io/badge/Learner%20%26%20Research%20Enthusiast-%F0%9F%94%8D-blue?style=for-the-badge" /> -->
   <img src="https://img.shields.io/badge/AI%20Enthusiast-%E2%9A%A1-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Photographer-%F0%9F%93%B7-green?style=for-the-badge" />
 </p>
