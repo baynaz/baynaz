@@ -2,7 +2,7 @@
 <!-- ===== HEADER / HERO ===== -->
 <!-- ========================= -->
 
-<h1 align="center">Hey, it's baynaz! 👋</h1>
+<h1 align="center">Hey, it's Zaynab! 👋</h1>
 <h3 align="center">Aspiring AI Engineer & Photographer</h3>
 
 <p align="center">
@@ -24,7 +24,9 @@
 
 ## 👩‍💻 About Me
 
-My name is Zaynab, and I'm currently **learning and growing** as an aspiring AI engineer.  
+My name's Zaynab Merimi.
+Soon to be AI Engineer Graduate.
+I am a amator photographer. , and I'm currently **learning and growing** as an aspiring AI engineer.  
 I’m especially curious about NLP, deep learning, interpretability, and how AI can contribute to healthcare.  
 I'm still at the beginning of my journey, but I genuinely enjoy exploring new concepts, running small experiments, and understanding how things work under the hood.
 
@@ -53,32 +55,12 @@ And of course, like many kids of my generation, I grew up watching **Detective C
 ---
 ## 🤝 Latest Work
 
-Here is a project I’m proud to contribute to:  
+Here are some projects I’m proud to contribute to:  
 
-**Law_Clearing_Agent-AWS_AI_Agent_Hackathon** : https://github.com/k-Refuge/Law_Clearing_Agent-AWS_AI_Agent_Hackathon
-
+- **Law_Clearing_Agent-AWS_AI_Agent_Hackathon** : https://github.com/k-Refuge/Law_Clearing_Agent-AWS_AI_Agent_Hackathon
+- **nyc-taxi-bigdata-pipeline** : https://github.com/baynaz/nyc-taxi-bigdata-pipeline
 ---
 
-## 🛠️ What I'm Currently Learning
-
-- Basics of research & AI experimentation  
-- Improving my understanding of deep learning and LLMs  
-- Building simple AI projects from scratch  
-- Implementing a research paper
-- Building my photography portfolio slowly and mindfully 
-
----
-
-## 💡 My Tech Stack (Still Growing)
-
-| Domain | Tools / Frameworks |
-|---|---|
-| **AI / Data** | Python, PyTorch, TensorFlow, HuggingFace, Scikit-learn |
-| **Research Tools** | NumPy, Pandas, Matplotlib, W&B |
-| **Web / Software** | React, Next.js, Node.js, Laravel |
-| **Dev Tools** | Git, GitHub Actions, VS Code, Linux |
-
----
 
 ## 📫 Let’s Connect
 
