@@ -66,7 +66,9 @@ Here are some projects I’m proud to contribute to:
 
 - **LinkedIn**: www.linkedin.com/in/zaynab-merimi-347093218
 - **Portfolio (Photography)**: Coming soon! Stay tuned!
-- **Email**: zaynabmerimi15@gmail.com   
+  <img width="1852" height="647" alt="image" src="https://github.com/user-attachments/assets/cd78c6e2-54cc-4bde-ad1f-40d57ec4936e" />
+
+- **Email**: zaynab.merimi.2@gmail.com   
 
 ---
 
