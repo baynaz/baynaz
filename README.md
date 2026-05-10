@@ -33,25 +33,6 @@ I'm still at the beginning of my journey, but I genuinely enjoy exploring new co
 Outside of tech, I'm also a **photography enthusiast**.  
 I love finding beauty in the little things, and from there, in everything! Photography teaches me patience, observation, creativity, but most important gratitude and satisfaction, which strangely also help me in AI.
 
-And of course, like many kids of my generation, I grew up watching **Detective Conan**.  
-
-
-<table>
-  <tr>
-    <td>
-      <p>
-        ✨ 小さなことからコツコツと<br>
-        “Even small steps, taken steadily, become progress.”<br>
-        Conan’s philosophy for beginners who don’t give up.
-     </p>
-    </td>
-    <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXI0bjRjNGQxdnkzMWttcDEwNmltMno1b3J0bXNpcGoxNzBlNzJhaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lITcaDWgInpra/giphy.gif" width="440px" />
-    </td>
-  </tr>
-</table>
-
-
 ---
 ## 🤝 Latest Work
 
@@ -72,20 +53,3 @@ Here are some projects I’m proud to contribute to:
 
 ---
 
-<p align="center">Thanks for stopping by! I'm learning one step at a time — feel free to reach out or explore my projects. 😊</p>
-
-
-
-
-
-<!--
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baynaz&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=baynaz&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=baynaz&theme=radical" />
-</p>
-
--->
