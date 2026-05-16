@@ -25,13 +25,7 @@
 ## 👩‍💻 About Me
 
 My name's Zaynab Merimi.
-Soon to be AI Engineer Graduate.
-I am a amator photographer. , and I'm currently **learning and growing** as an aspiring AI engineer.  
-I’m especially curious about NLP, deep learning, interpretability, and how AI can contribute to healthcare.  
-I'm still at the beginning of my journey, but I genuinely enjoy exploring new concepts, running small experiments, and understanding how things work under the hood.
-
-Outside of tech, I'm also a **photography enthusiast**.  
-I love finding beauty in the little things, and from there, in everything! Photography teaches me patience, observation, creativity, but most important gratitude and satisfaction, which strangely also help me in AI.
+I am an amator photographer, and currently **learning and growing** as an aspiring AI engineer.  
 
 ---
 ## 🤝 Latest Work
