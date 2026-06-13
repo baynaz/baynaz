@@ -18,30 +18,18 @@
 
 ---
 
-<!-- ========================= -->
-<!-- ===== ABOUT ME & CTA ==== -->
-<!-- ========================= -->
-
 ## 👩‍💻 About Me
 
 My name's Zaynab Merimi.
 I am an amator photographer, and currently **learning and growing** as an aspiring AI engineer.  
 
 ---
-## 🤝 Latest Work
-
-Here are some projects I’m proud to contribute to:  
-
-- **Law_Clearing_Agent-AWS_AI_Agent_Hackathon** : https://github.com/k-Refuge/Law_Clearing_Agent-AWS_AI_Agent_Hackathon
-- **nyc-taxi-bigdata-pipeline** : https://github.com/baynaz/nyc-taxi-bigdata-pipeline
----
 
 
 ## 📫 Let’s Connect
 
 - **LinkedIn**: www.linkedin.com/in/zaynab-merimi-347093218
-- **Portfolio (Photography)**: Coming soon! Stay tuned!
-  <img width="1779" height="825" alt="image" src="https://github.com/user-attachments/assets/345f5b6d-2742-4ef5-9334-86808e08f8ac" />
+- **Portfolio (Photography)**: [zaynabmerimi.vercel.app](https://zaynabmerimi.vercel.app/)
 - **Email**: zaynab.merimi.2@gmail.com   
 
 ---
