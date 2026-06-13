@@ -2,12 +2,10 @@
 <!-- ===== HEADER / HERO ===== -->
 <!-- ========================= -->
 
-<h1 align="center">Hey, it's Zaynab! 👋</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=EE82EE&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+AI+step+by+step;Exploring+Research;Photography+Enthusiast;Curious+by+nature+%F0%9F%8C%9F">
 </p>
----
+
 
 ## 👩‍💻 About Me
 
